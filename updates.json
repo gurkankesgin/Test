@@ -81,7 +81,7 @@
           "negative_button": "Exit"
         }
       },
-      "targetVersionCode": 5000,
+      "targetVersionCode": 0,
       "targetGooglePlay": true,
       "forceUpdate": false
     }
