@@ -115,7 +115,7 @@
       },
       "targetVersionCode": 99999,
       "targetGooglePlay": true,
-      "forceUpdate": false
+      "forceUpdate": true
     }
   }
 ]
