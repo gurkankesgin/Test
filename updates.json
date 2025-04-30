@@ -4,13 +4,47 @@
     "updates": {
       "descriptions": {
         "tr": {
-          "message": "Sahibinden uygulamasını güncellemeniz gerekmektedir.",
+          "message": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.",
           "positive_button": "Güncelle",
           "negative_button": "Çıkış"
         },
         "*": {
-          "message": "Please update to new version.",
+          "message": "Updates - Please update to new version.",
           "positive_button": "Update",
+          "negative_button": "Exit"
+        }
+      },
+      "targetVersionCode": 0,
+      "targetGooglePlay": true,
+      "forceUpdate": true
+    },
+    "publish": {
+      "descriptions": {
+        "tr": {
+          "message": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.",
+          "positive_button": "Güncelle",
+          "negative_button": "Çıkış"
+        },
+        "*": {
+          "message": "Publish - A new version is available. Please update to continue.",
+          "positive_button": "Update",
+          "negative_button": "Exit"
+        }
+      },
+      "targetVersionCode": 0,
+      "targetGooglePlay": true,
+      "forceUpdate": true
+    },
+    "yepy": {
+      "descriptions": {
+        "tr": {
+          "message": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.",
+          "positive_button": "Yepy Güncelle",
+          "negative_button": "Çıkış"
+        },
+        "*": {
+          "message": "Yepy - Please download the Yepy version.",
+          "positive_button": "Update Yepy",
           "negative_button": "Exit"
         }
       },
@@ -24,13 +58,47 @@
     "updates": {
       "descriptions": {
         "tr": {
-          "message": "Sahibinden uygulamasını güncellemeniz gerekmektedir.",
+          "message": "Updates - Sahibinden PRO uygulamasını güncellemeniz gerekmektedir.",
           "positive_button": "Güncelle",
           "negative_button": "Çıkış"
         },
         "*": {
-          "message": "Please update to new version.",
+          "message": "Updates - Please update to the latest PRO version.",
           "positive_button": "Update",
+          "negative_button": "Exit"
+        }
+      },
+      "targetVersionCode": 99999,
+      "targetGooglePlay": true,
+      "forceUpdate": true
+    },
+    "publish": {
+      "descriptions": {
+        "tr": {
+          "message": "Publish - Yeni PRO sürümü yayınlandı. Lütfen güncelleyin.",
+          "positive_button": "Şimdi Güncelle",
+          "negative_button": "Çıkış"
+        },
+        "*": {
+          "message": "Publish - New PRO version available. Please update.",
+          "positive_button": "Update Now",
+          "negative_button": "Exit"
+        }
+      },
+      "targetVersionCode": 99999,
+      "targetGooglePlay": true,
+      "forceUpdate": true
+    },
+    "yepy": {
+      "descriptions": {
+        "tr": {
+          "message": "Yepy - PRO için yepyeni bir sürüm çıktı, hemen güncelleyin.",
+          "positive_button": "Yepy Güncelle",
+          "negative_button": "Çıkış"
+        },
+        "*": {
+          "message": "Yepy - A fresh version for PRO is live, update now.",
+          "positive_button": "Update Yepy",
           "negative_button": "Exit"
         }
       },
