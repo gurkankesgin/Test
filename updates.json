@@ -3,8 +3,16 @@
     "packageName": "com.sahibinden.dev",
     "updates": {
       "titles": {
-        "tr": "Updates Başlığı",
-        "*": "Updates Title"
+        "tr": {
+          "message": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.",
+          "positive_button": "Güncelle",
+          "negative_button": "Çıkış"
+        },
+        "*": {
+          "message": "Updates - Please update to new version.",
+          "positive_button": "Update",
+          "negative_button": "Exit"
+        }
       },
       "descriptions": {
         "tr": {
@@ -24,8 +32,16 @@
     },
     "publish": {
       "titles": {
-        "tr": "Publish Başlığı",
-        "*": "Publish Title"
+        "tr": {
+          "message": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.",
+          "positive_button": "Güncelle",
+          "negative_button": "Çıkış"
+        },
+        "*": {
+          "message": "Publish - A new version is available. Please update to continue.",
+          "positive_button": "Update",
+          "negative_button": "Exit"
+        }
       },
       "descriptions": {
         "tr": {
@@ -45,8 +61,16 @@
     },
     "yepy": {
       "titles": {
-        "tr": "Yepy Başlığı",
-        "*": "Yepy Title"
+        "tr": {
+          "message": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.",
+          "positive_button": "Yepy Güncelle",
+          "negative_button": "Çıkış"
+        },
+        "*": {
+          "message": "Yepy - Please download the Yepy version.",
+          "positive_button": "Update Yepy",
+          "negative_button": "Exit"
+        }
       },
       "descriptions": {
         "tr": {
@@ -66,8 +90,16 @@
     },
     "payment": {
       "titles": {
-        "tr": "Payment Başlığı",
-        "*": "Payment Title"
+        "tr": {
+          "message": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.",
+          "positive_button": "Güncelle",
+          "negative_button": "Çıkış"
+        },
+        "*": {
+          "message": "Payment - Payment module needs an update.",
+          "positive_button": "Update",
+          "negative_button": "Exit"
+        }
       },
       "descriptions": {
         "tr": {
@@ -81,94 +113,7 @@
           "negative_button": "Exit"
         }
       },
-      "targetVersionCode": 9999,
-      "targetGooglePlay": true,
-      "forceUpdate": false
-    }
-  },
-  {
-    "packageName": "com.sahibinden.pro.dev",
-    "updates": {
-      "titles": {
-        "tr": "Updates Başlığı",
-        "*": "Updates Title"
-      },
-      "descriptions": {
-        "tr": {
-          "message": "Updates - Sahibinden PRO uygulamasını güncellemeniz gerekmektedir.",
-          "positive_button": "Güncelle",
-          "negative_button": "Çıkış"
-        },
-        "*": {
-          "message": "Updates - Please update to the latest PRO version.",
-          "positive_button": "Update",
-          "negative_button": "Exit"
-        }
-      },
-      "targetVersionCode": 99999,
-      "targetGooglePlay": true,
-      "forceUpdate": true
-    },
-    "publish": {
-      "titles": {
-        "tr": "Publish Başlığı",
-        "*": "Publish Title"
-      },
-      "descriptions": {
-        "tr": {
-          "message": "Publish - Yeni PRO sürümü yayınlandı. Lütfen güncelleyin.",
-          "positive_button": "Şimdi Güncelle",
-          "negative_button": "Çıkış"
-        },
-        "*": {
-          "message": "Publish - New PRO version available. Please update.",
-          "positive_button": "Update Now",
-          "negative_button": "Exit"
-        }
-      },
-      "targetVersionCode": 99999,
-      "targetGooglePlay": true,
-      "forceUpdate": true
-    },
-    "yepy": {
-      "titles": {
-        "tr": "Yepy Başlığı",
-        "*": "Yepy Title"
-      },
-      "descriptions": {
-        "tr": {
-          "message": "Yepy - PRO için yepyeni bir sürüm çıktı, hemen güncelleyin.",
-          "positive_button": "Yepy Güncelle",
-          "negative_button": "Çıkış"
-        },
-        "*": {
-          "message": "Yepy - A fresh version for PRO is live, update now.",
-          "positive_button": "Update Yepy",
-          "negative_button": "Exit"
-        }
-      },
-      "targetVersionCode": 99999,
-      "targetGooglePlay": true,
-      "forceUpdate": true
-    },
-    "payment": {
-      "titles": {
-        "tr": "Payment Başlığı",
-        "*": "Payment Title"
-      },
-      "descriptions": {
-        "tr": {
-          "message": "Payment - PRO ödeme sistemi için yeni sürüm gereklidir.",
-          "positive_button": "Ödemeyi Güncelle",
-          "negative_button": "Çıkış"
-        },
-        "*": {
-          "message": "Payment - New version required for PRO payment system.",
-          "positive_button": "Update Payment",
-          "negative_button": "Exit"
-        }
-      },
-      "targetVersionCode": 88888,
+      "targetVersionCode": 5000,
       "targetGooglePlay": true,
       "forceUpdate": false
     }
