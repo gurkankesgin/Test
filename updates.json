@@ -2,6 +2,10 @@
   {
     "packageName": "com.sahibinden.dev",
     "updates": {
+      "titles": {
+        "tr": "Updates Başlığı",
+        "*": "Updates Title"
+      },
       "descriptions": {
         "tr": {
           "message": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.",
@@ -19,6 +23,10 @@
       "forceUpdate": true
     },
     "publish": {
+      "titles": {
+        "tr": "Publish Başlığı",
+        "*": "Publish Title"
+      },
       "descriptions": {
         "tr": {
           "message": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.",
@@ -36,6 +44,10 @@
       "forceUpdate": true
     },
     "yepy": {
+      "titles": {
+        "tr": "Yepy Başlığı",
+        "*": "Yepy Title"
+      },
       "descriptions": {
         "tr": {
           "message": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.",
@@ -51,11 +63,36 @@
       "targetVersionCode": 9999,
       "targetGooglePlay": true,
       "forceUpdate": true
+    },
+    "payment": {
+      "titles": {
+        "tr": "Payment Başlığı",
+        "*": "Payment Title"
+      },
+      "descriptions": {
+        "tr": {
+          "message": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.",
+          "positive_button": "Güncelle",
+          "negative_button": "Çıkış"
+        },
+        "*": {
+          "message": "Payment - Payment module needs an update.",
+          "positive_button": "Update",
+          "negative_button": "Exit"
+        }
+      },
+      "targetVersionCode": 5000,
+      "targetGooglePlay": true,
+      "forceUpdate": false
     }
   },
   {
     "packageName": "com.sahibinden.pro.dev",
     "updates": {
+      "titles": {
+        "tr": "Updates Başlığı",
+        "*": "Updates Title"
+      },
       "descriptions": {
         "tr": {
           "message": "Updates - Sahibinden PRO uygulamasını güncellemeniz gerekmektedir.",
@@ -73,6 +110,10 @@
       "forceUpdate": true
     },
     "publish": {
+      "titles": {
+        "tr": "Publish Başlığı",
+        "*": "Publish Title"
+      },
       "descriptions": {
         "tr": {
           "message": "Publish - Yeni PRO sürümü yayınlandı. Lütfen güncelleyin.",
@@ -90,6 +131,10 @@
       "forceUpdate": true
     },
     "yepy": {
+      "titles": {
+        "tr": "Yepy Başlığı",
+        "*": "Yepy Title"
+      },
       "descriptions": {
         "tr": {
           "message": "Yepy - PRO için yepyeni bir sürüm çıktı, hemen güncelleyin.",
@@ -105,6 +150,27 @@
       "targetVersionCode": 99999,
       "targetGooglePlay": true,
       "forceUpdate": true
+    },
+    "payment": {
+      "titles": {
+        "tr": "Payment Başlığı",
+        "*": "Payment Title"
+      },
+      "descriptions": {
+        "tr": {
+          "message": "Payment - PRO ödeme sistemi için yeni sürüm gereklidir.",
+          "positive_button": "Ödemeyi Güncelle",
+          "negative_button": "Çıkış"
+        },
+        "*": {
+          "message": "Payment - New version required for PRO payment system.",
+          "positive_button": "Update Payment",
+          "negative_button": "Exit"
+        }
+      },
+      "targetVersionCode": 88888,
+      "targetGooglePlay": true,
+      "forceUpdate": false
     }
   }
 ]
