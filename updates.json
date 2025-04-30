@@ -1,0 +1,42 @@
+[
+  {
+    "packageName": "com.sahibinden.dev",
+    "updates": {
+      "descriptions": {
+        "tr": {
+          "message": "Sahibinden uygulamasını güncellemeniz gerekmektedir.",
+          "positive_button": "Güncelle",
+          "negative_button": "Çıkış"
+        },
+        "*": {
+          "message": "Please update to new version.",
+          "positive_button": "Update",
+          "negative_button": "Exit"
+        }
+      },
+      "targetVersionCode": 99999,
+      "targetGooglePlay": true,
+      "forceUpdate": true
+    }
+  },
+  {
+    "packageName": "com.sahibinden.pro.dev",
+    "updates": {
+      "descriptions": {
+        "tr": {
+          "message": "Sahibinden uygulamasını güncellemeniz gerekmektedir.",
+          "positive_button": "Güncelle",
+          "negative_button": "Çıkış"
+        },
+        "*": {
+          "message": "Please update to new version.",
+          "positive_button": "Update",
+          "negative_button": "Exit"
+        }
+      },
+      "targetVersionCode": 99999,
+      "targetGooglePlay": true,
+      "forceUpdate": true
+    }
+  }
+]
