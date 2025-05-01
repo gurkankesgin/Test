@@ -2,25 +2,15 @@
   {
     "packageName": "com.sahibinden.dev",
     "updates": {
-      "titles": {
-        "tr": {
-          "message": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.",
-          "positive_button": "Güncelle",
-          "negative_button": "Çıkış"
-        },
-        "*": {
-          "message": "Updates - Please update to new version.",
-          "positive_button": "Update",
-          "negative_button": "Exit"
-        }
-      },
       "descriptions": {
         "tr": {
+          "title": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.",
           "message": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.",
           "positive_button": "Güncelle",
           "negative_button": "Çıkış"
         },
         "*": {
+          "title": "Updates - Please update to new version.",
           "message": "Updates - Please update to new version.",
           "positive_button": "Update",
           "negative_button": "Exit"
@@ -31,25 +21,15 @@
       "forceUpdate": true
     },
     "publish": {
-      "titles": {
-        "tr": {
-          "message": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.",
-          "positive_button": "Güncelle",
-          "negative_button": "Çıkış"
-        },
-        "*": {
-          "message": "Publish - A new version is available. Please update to continue.",
-          "positive_button": "Update",
-          "negative_button": "Exit"
-        }
-      },
       "descriptions": {
         "tr": {
+          "title": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.",
           "message": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.",
           "positive_button": "Güncelle",
           "negative_button": "Çıkış"
         },
         "*": {
+          "title": "Publish - A new version is available. Please update to continue.",
           "message": "Publish - A new version is available. Please update to continue.",
           "positive_button": "Update",
           "negative_button": "Exit"
@@ -60,25 +40,15 @@
       "forceUpdate": true
     },
     "yepy": {
-      "titles": {
-        "tr": {
-          "message": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.",
-          "positive_button": "Yepy Güncelle",
-          "negative_button": "Çıkış"
-        },
-        "*": {
-          "message": "Yepy - Please download the Yepy version.",
-          "positive_button": "Update Yepy",
-          "negative_button": "Exit"
-        }
-      },
       "descriptions": {
         "tr": {
+          "title": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.",
           "message": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.",
           "positive_button": "Yepy Güncelle",
           "negative_button": "Çıkış"
         },
         "*": {
+          "title": "Yepy - Please download the Yepy version.",
           "message": "Yepy - Please download the Yepy version.",
           "positive_button": "Update Yepy",
           "negative_button": "Exit"
@@ -89,25 +59,15 @@
       "forceUpdate": true
     },
     "payment": {
-      "titles": {
-        "tr": {
-          "message": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.",
-          "positive_button": "Güncelle",
-          "negative_button": "Çıkış"
-        },
-        "*": {
-          "message": "Payment - Payment module needs an update.",
-          "positive_button": "Update",
-          "negative_button": "Exit"
-        }
-      },
       "descriptions": {
         "tr": {
+          "title": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.",
           "message": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.",
           "positive_button": "Güncelle",
           "negative_button": "Çıkış"
         },
         "*": {
+          "title": "Payment - Payment module needs an update.",
           "message": "Payment - Payment module needs an update.",
           "positive_button": "Update",
           "negative_button": "Exit"
