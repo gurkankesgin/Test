@@ -95,7 +95,7 @@
           "negative_button": "Exit App"
         }
       },
-      "targetVersionCode": 99999,
+      "targetVersionCode": 9999,
       "targetGooglePlay": true,
       "forceUpdate": true
     },
