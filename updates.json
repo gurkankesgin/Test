@@ -6,14 +6,14 @@
         "tr": {
           "title": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.",
           "message": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.",
-          "positive_button": "Güncelle",
-          "negative_button": "Çıkış"
+          "positive_button": "Uygulamayı Güncelle",
+          "negative_button": "Uygulamadan Çık"
         },
         "*": {
           "title": "Updates - Please update to new version.",
           "message": "Updates - Please update to new version.",
-          "positive_button": "Update",
-          "negative_button": "Exit"
+          "positive_button": "Update App",
+          "negative_button": "Exit App"
         }
       },
       "targetVersionCode": 0,
@@ -25,14 +25,14 @@
         "tr": {
           "title": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.",
           "message": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.",
-          "positive_button": "Güncelle",
-          "negative_button": "Çıkış"
+          "positive_button": "İlan Vermek için Güncelle",
+          "negative_button": "İlan Vermeden Çık"
         },
         "*": {
           "title": "Publish - A new version is available. Please update to continue.",
           "message": "Publish - A new version is available. Please update to continue.",
-          "positive_button": "Update",
-          "negative_button": "Exit"
+          "positive_button": "Update to Post",
+          "negative_button": "Exit Without Posting"
         }
       },
       "targetVersionCode": 0,
@@ -44,14 +44,14 @@
         "tr": {
           "title": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.",
           "message": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.",
-          "positive_button": "Yepy Güncelle",
-          "negative_button": "Çıkış"
+          "positive_button": "Yepy'i Güncelle",
+          "negative_button": "Yepy'den Çık"
         },
         "*": {
           "title": "Yepy - Please download the Yepy version.",
           "message": "Yepy - Please download the Yepy version.",
           "positive_button": "Update Yepy",
-          "negative_button": "Exit"
+          "negative_button": "Exit Yepy"
         }
       },
       "targetVersionCode": 0,
@@ -63,14 +63,14 @@
         "tr": {
           "title": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.",
           "message": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.",
-          "positive_button": "Güncelle",
-          "negative_button": "Çıkış"
+          "positive_button": "Ödeme Sistemini Güncelle",
+          "negative_button": "Ödemesiz Çık"
         },
         "*": {
           "title": "Payment - Payment module needs an update.",
           "message": "Payment - Payment module needs an update.",
-          "positive_button": "Update",
-          "negative_button": "Exit"
+          "positive_button": "Update Payment",
+          "negative_button": "Exit Without Paying"
         }
       },
       "targetVersionCode": 0,
@@ -85,17 +85,17 @@
         "tr": {
           "title": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.",
           "message": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.",
-          "positive_button": "Güncelle",
-          "negative_button": "Çıkış"
+          "positive_button": "Uygulamayı Güncelle",
+          "negative_button": "Uygulamadan Çık"
         },
         "*": {
           "title": "Updates - Please update to new version.",
           "message": "Updates - Please update to new version.",
-          "positive_button": "Update",
-          "negative_button": "Exit"
+          "positive_button": "Update App",
+          "negative_button": "Exit App"
         }
       },
-      "targetVersionCode": 0,
+      "targetVersionCode": 99999,
       "targetGooglePlay": true,
       "forceUpdate": true
     },
@@ -104,14 +104,14 @@
         "tr": {
           "title": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.",
           "message": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.",
-          "positive_button": "Güncelle",
-          "negative_button": "Çıkış"
+          "positive_button": "İlan Vermek için Güncelle",
+          "negative_button": "İlan Vermeden Çık"
         },
         "*": {
           "title": "Publish - A new version is available. Please update to continue.",
           "message": "Publish - A new version is available. Please update to continue.",
-          "positive_button": "Update",
-          "negative_button": "Exit"
+          "positive_button": "Update to Post",
+          "negative_button": "Exit Without Posting"
         }
       },
       "targetVersionCode": 99999,
@@ -123,14 +123,14 @@
         "tr": {
           "title": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.",
           "message": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.",
-          "positive_button": "Yepy Güncelle",
-          "negative_button": "Çıkış"
+          "positive_button": "Yepy'i Güncelle",
+          "negative_button": "Yepy'den Çık"
         },
         "*": {
           "title": "Yepy - Please download the Yepy version.",
           "message": "Yepy - Please download the Yepy version.",
           "positive_button": "Update Yepy",
-          "negative_button": "Exit"
+          "negative_button": "Exit Yepy"
         }
       },
       "targetVersionCode": 99999,
@@ -142,14 +142,14 @@
         "tr": {
           "title": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.",
           "message": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.",
-          "positive_button": "Güncelle",
-          "negative_button": "Çıkış"
+          "positive_button": "Ödeme Sistemini Güncelle",
+          "negative_button": "Ödemesiz Çık"
         },
         "*": {
           "title": "Payment - Payment module needs an update.",
           "message": "Payment - Payment module needs an update.",
-          "positive_button": "Update",
-          "negative_button": "Exit"
+          "positive_button": "Update Payment",
+          "negative_button": "Exit Without Paying"
         }
       },
       "targetVersionCode": 99999,
