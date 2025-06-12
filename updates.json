@@ -16,7 +16,7 @@
           "negative_button": "Exit App"
         }
       },
-      "targetVersionCode": 9999,
+      "targetVersionCode": 1,
       "targetGooglePlay": true,
       "forceUpdate": true
     },
@@ -35,7 +35,7 @@
           "negative_button": "Exit Without Posting"
         }
       },
-      "targetVersionCode": 0,
+      "targetVersionCode": 9999,
       "targetGooglePlay": true,
       "forceUpdate": true
     },
@@ -54,7 +54,7 @@
           "negative_button": "Exit Yepy"
         }
       },
-      "targetVersionCode": 0,
+      "targetVersionCode": 99999,
       "targetGooglePlay": true,
       "forceUpdate": true
     },
@@ -73,7 +73,7 @@
           "negative_button": "Exit Without Paying"
         }
       },
-      "targetVersionCode": 0,
+      "targetVersionCode": 99999,
       "targetGooglePlay": true,
       "forceUpdate": true
     }
