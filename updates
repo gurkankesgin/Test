@@ -1,1 +1,160 @@
 
+[
+  {
+    "packageName": "com.sahibinden.dev",
+    "updates": {
+      "descriptions": {
+        "tr": {
+          "title": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.-main",
+          "message": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.-main",
+          "positive_button": "Uygulamayı Güncelle-main",
+          "negative_button": "Uygulamadan Çık-main"
+        },
+        "*": {
+          "title": "Updates - Please update to new version.-main",
+          "message": "Updates - Please update to new version.-main",
+          "positive_button": "Update App-main",
+          "negative_button": "Exit App-main"
+        }
+      },
+      "targetVersionCode": 0,
+      "targetGooglePlay": true,
+      "forceUpdate": true
+    },
+    "publish": {
+      "descriptions": {
+        "tr": {
+          "title": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.-main",
+          "message": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.-main",
+          "positive_button": "İlan Vermek için Güncelle-main",
+          "negative_button": "İlan Vermeden Çık-main"
+        },
+        "*": {
+          "title": "Publish - A new version is available. Please update to continue.-main",
+          "message": "Publish - A new version is available. Please update to continue.-main",
+          "positive_button": "Update to Post-main",
+          "negative_button": "Exit Without Posting-main"
+        }
+      },
+      "targetVersionCode": 99999,
+      "targetGooglePlay": true,
+      "forceUpdate": true
+    },
+    "yepy": {
+      "descriptions": {
+        "tr": {
+          "title": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.-main",
+          "message": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.-main",
+          "positive_button": "Yepy'i Güncelle-main",
+          "negative_button": "Yepy'den Çık-main"
+        },
+        "*": {
+          "title": "Yepy - Please download the Yepy version.-main",
+          "message": "Yepy - Please download the Yepy version.-main",
+          "positive_button": "Update Yepy-main",
+          "negative_button": "Exit Yepy-main"
+        }
+      },
+      "targetVersionCode": 99999,
+      "targetGooglePlay": true,
+      "forceUpdate": true
+    },
+    "payment": {
+      "descriptions": {
+        "tr": {
+          "title": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.-main",
+          "message": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.-main",
+          "positive_button": "Ödeme Sistemini Güncelle-main",
+          "negative_button": "Ödemesiz Çık-main"
+        },
+        "*": {
+          "title": "Payment - Payment module needs an update.-main",
+          "message": "Payment - Payment module needs an update.-main",
+          "positive_button": "Update Payment-main",
+          "negative_button": "Exit Without Paying-main"
+        }
+      },
+      "targetVersionCode": 999999,
+      "targetGooglePlay": true,
+      "forceUpdate": true
+    }
+  },{
+    "packageName": "com.sahibinden.pro.dev",
+    "updates": {
+      "descriptions": {
+        "tr": {
+          "title": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.-pro",
+          "message": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.-pro",
+          "positive_button": "Uygulamayı Güncelle-pro",
+          "negative_button": "Uygulamadan Çık-pro"
+        },
+        "*": {
+          "title": "Updates - Please update to new version.-pro",
+          "message": "Updates - Please update to new version.-pro",
+          "positive_button": "Update App-pro",
+          "negative_button": "Exit App-pro"
+        }
+      },
+      "targetVersionCode": 0,
+      "targetGooglePlay": true,
+      "forceUpdate": true
+    },
+    "publish": {
+      "descriptions": {
+        "tr": {
+          "title": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.-pro",
+          "message": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.-pro",
+          "positive_button": "İlan Vermek için Güncelle-pro",
+          "negative_button": "İlan Vermeden Çık-pro"
+        },
+        "*": {
+          "title": "Publish - A new version is available. Please update to continue.-pro",
+          "message": "Publish - A new version is available. Please update to continue.-pro",
+          "positive_button": "Update to Post-pro",
+          "negative_button": "Exit Without Posting-pro"
+        }
+      },
+      "targetVersionCode": 99999,
+      "targetGooglePlay": true,
+      "forceUpdate": true
+    },
+    "yepy": {
+      "descriptions": {
+        "tr": {
+          "title": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.-pro",
+          "message": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.-pro",
+          "positive_button": "Yepy'i Güncelle-pro",
+          "negative_button": "Yepy'den Çık-pro"
+        },
+        "*": {
+          "title": "Yepy - Please download the Yepy version.-pro",
+          "message": "Yepy - Please download the Yepy version.-pro",
+          "positive_button": "Update Yepy-pro",
+          "negative_button": "Exit Yepy-pro"
+        }
+      },
+      "targetVersionCode": 99999,
+      "targetGooglePlay": true,
+      "forceUpdate": true
+    },
+    "payment": {
+      "descriptions": {
+        "tr": {
+          "title": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.-pro",
+          "message": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.-pro",
+          "positive_button": "Ödeme Sistemini Güncelle-pro",
+          "negative_button": "Ödemesiz Çık-pro"
+        },
+        "*": {
+          "title": "Payment - Payment module needs an update.-pro",
+          "message": "Payment - Payment module needs an update.-pro",
+          "positive_button": "Update Payment-pro",
+          "negative_button": "Exit Without Paying-pro"
+        }
+      },
+      "targetVersionCode": 999999,
+      "targetGooglePlay": true,
+      "forceUpdate": true
+    }
+  }
+]
