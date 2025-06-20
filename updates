@@ -1,6 +1,6 @@
 [
   {
-    "packageName": "com.sahibinden.dev",
+    "packageName": "com.sahibinden",
     "updates": {
       "descriptions": {
         "tr": {
@@ -79,7 +79,7 @@
     }
   },
   {
-    "packageName": "com.sahibinden.pro.dev",
+    "packageName": "com.sahibinden.pro",
     "updates": {
       "descriptions": {
         "tr": {
