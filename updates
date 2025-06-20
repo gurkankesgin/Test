@@ -1,18 +1,17 @@
-
 [
   {
     "packageName": "com.sahibinden.dev",
     "updates": {
       "descriptions": {
         "tr": {
-          "title": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.-main",
-          "message": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.-main",
+          "title": "Uygulamanızı güncelleyin",
+          "message": "sahibinden.com’a özel yeni özellikleri ve iyileştirmeleri keşfetmek için uygulamanızı güncelleyin.",
           "positive_button": "Uygulamayı Güncelle-main",
           "negative_button": "Uygulamadan Çık-main"
         },
         "*": {
-          "title": "Updates - Please update to new version.-main",
-          "message": "Updates - Please update to new version.-main",
+          "title": "Update your app",
+          "message": "Discover new features and improvements only available on sahibinden.com.",
           "positive_button": "Update App-main",
           "negative_button": "Exit App-main"
         }
@@ -24,14 +23,14 @@
     "publish": {
       "descriptions": {
         "tr": {
-          "title": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.-main",
-          "message": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.-main",
+          "title": "Uygulamanızı güncelleyin",
+          "message": "sahibinden.com’da ilan vererek milyonlarca kullanıcıya ulaşmak için uygulamanızı güncelleyin.",
           "positive_button": "İlan Vermek için Güncelle-main",
           "negative_button": "İlan Vermeden Çık-main"
         },
         "*": {
-          "title": "Publish - A new version is available. Please update to continue.-main",
-          "message": "Publish - A new version is available. Please update to continue.-main",
+          "title": "Update your app",
+          "message": "Connect with millions of users on sahibinden.com by posting and editing your listings. Update your app to get started.",
           "positive_button": "Update to Post-main",
           "negative_button": "Exit Without Posting-main"
         }
@@ -43,14 +42,14 @@
     "yepy": {
       "descriptions": {
         "tr": {
-          "title": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.-main",
-          "message": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.-main",
+          "title": "Uygulamanızı güncelleyin",
+          "message": "Yepyenilenmiş cihazları taksit fırsatıyla satın alıp, kullanmadığınız cihazlarınızı güvenle satmak için uygulamanızı güncelleyin.",
           "positive_button": "Yepy'i Güncelle-main",
           "negative_button": "Yepy'den Çık-main"
         },
         "*": {
-          "title": "Yepy - Please download the Yepy version.-main",
-          "message": "Yepy - Please download the Yepy version.-main",
+          "title": "Update your app",
+          "message": "Buy refurbished devices with installment options and sell your unused devices securely. Update now to access these features.",
           "positive_button": "Update Yepy-main",
           "negative_button": "Exit Yepy-main"
         }
@@ -62,14 +61,14 @@
     "payment": {
       "descriptions": {
         "tr": {
-          "title": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.-main",
-          "message": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.-main",
+          "title": "Uygulamanızı güncelleyin",
+          "message": "Ödeme kolaylığı, farklı ödeme yöntemleri ve sadece sahibinden.com’a özel yeniliklerden yararlanmak için uygulamanızı güncelleyin.",
           "positive_button": "Ödeme Sistemini Güncelle-main",
           "negative_button": "Ödemesiz Çık-main"
         },
         "*": {
-          "title": "Payment - Payment module needs an update.-main",
-          "message": "Payment - Payment module needs an update.-main",
+          "title": "Update your app",
+          "message": "Enjoy easier payments, flexible options, and new features only on sahibinden.com.",
           "positive_button": "Update Payment-main",
           "negative_button": "Exit Without Paying-main"
         }
@@ -78,19 +77,20 @@
       "targetGooglePlay": true,
       "forceUpdate": true
     }
-  },{
+  },
+  {
     "packageName": "com.sahibinden.pro.dev",
     "updates": {
       "descriptions": {
         "tr": {
-          "title": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.-pro",
-          "message": "Updates - Sahibinden uygulamasını güncellemeniz gerekmektedir.-pro",
+          "title": "Uygulamanızı güncelleyin",
+          "message": "sahibinden.com’a özel yeni özellikleri ve iyileştirmeleri keşfetmek için uygulamanızı güncelleyin.",
           "positive_button": "Uygulamayı Güncelle-pro",
           "negative_button": "Uygulamadan Çık-pro"
         },
         "*": {
-          "title": "Updates - Please update to new version.-pro",
-          "message": "Updates - Please update to new version.-pro",
+          "title": "Update your app",
+          "message": "Discover new features and improvements only available on sahibinden.com.",
           "positive_button": "Update App-pro",
           "negative_button": "Exit App-pro"
         }
@@ -102,14 +102,14 @@
     "publish": {
       "descriptions": {
         "tr": {
-          "title": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.-pro",
-          "message": "Publish - Yeni sürüm yayınlandı. Devam etmek için lütfen güncelleyin.-pro",
+          "title": "Uygulamanızı güncelleyin",
+          "message": "sahibinden.com’da ilan vererek milyonlarca kullanıcıya ulaşmak için uygulamanızı güncelleyin.",
           "positive_button": "İlan Vermek için Güncelle-pro",
           "negative_button": "İlan Vermeden Çık-pro"
         },
         "*": {
-          "title": "Publish - A new version is available. Please update to continue.-pro",
-          "message": "Publish - A new version is available. Please update to continue.-pro",
+          "title": "Update your app",
+          "message": "Connect with millions of users on sahibinden.com by posting and editing your listings. Update your app to get started.",
           "positive_button": "Update to Post-pro",
           "negative_button": "Exit Without Posting-pro"
         }
@@ -121,14 +121,14 @@
     "yepy": {
       "descriptions": {
         "tr": {
-          "title": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.-pro",
-          "message": "Yepy - Yepy sürümünü indirmeniz gerekmektedir.-pro",
+          "title": "Uygulamanızı güncelleyin",
+          "message": "Yepyenilenmiş cihazları taksit fırsatıyla satın alıp, kullanmadığınız cihazlarınızı güvenle satmak için uygulamanızı güncelleyin.",
           "positive_button": "Yepy'i Güncelle-pro",
           "negative_button": "Yepy'den Çık-pro"
         },
         "*": {
-          "title": "Yepy - Please download the Yepy version.-pro",
-          "message": "Yepy - Please download the Yepy version.-pro",
+          "title": "Update your app",
+          "message": "Buy refurbished devices with installment options and sell your unused devices securely. Update now to access these features.",
           "positive_button": "Update Yepy-pro",
           "negative_button": "Exit Yepy-pro"
         }
@@ -140,14 +140,14 @@
     "payment": {
       "descriptions": {
         "tr": {
-          "title": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.-pro",
-          "message": "Payment - Ödeme sisteminde güncelleme yapılması gerekiyor.-pro",
+          "title": "Uygulamanızı güncelleyin",
+          "message": "Ödeme kolaylığı, farklı ödeme yöntemleri ve sadece sahibinden.com’a özel yeniliklerden yararlanmak için uygulamanızı güncelleyin.",
           "positive_button": "Ödeme Sistemini Güncelle-pro",
           "negative_button": "Ödemesiz Çık-pro"
         },
         "*": {
-          "title": "Payment - Payment module needs an update.-pro",
-          "message": "Payment - Payment module needs an update.-pro",
+          "title": "Update your app",
+          "message": "Enjoy easier payments, flexible options, and new features only on sahibinden.com.",
           "positive_button": "Update Payment-pro",
           "negative_button": "Exit Without Paying-pro"
         }
