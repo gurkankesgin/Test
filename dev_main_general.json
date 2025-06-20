@@ -6,14 +6,14 @@
         "tr": {
           "title": "Uygulamanızı güncelleyin",
           "message": "sahibinden.com’a özel yeni özellikleri ve iyileştirmeleri keşfetmek için uygulamanızı güncelleyin.",
-          "positive_button": "Uygulamayı Güncelle-main",
-          "negative_button": "Uygulamadan Çık-main"
+          "positive_button": "Güncelle",
+          "negative_button": "Çıkış"
         },
         "*": {
           "title": "Update your app",
           "message": "Discover new features and improvements only available on sahibinden.com.",
-          "positive_button": "Update App-main",
-          "negative_button": "Exit App-main"
+          "positive_button": "Update",
+          "negative_button": "Exit"
         }
       },
       "targetVersionCode": 99999,
@@ -25,14 +25,14 @@
         "tr": {
           "title": "Uygulamanızı güncelleyin",
           "message": "sahibinden.com’da ilan vererek milyonlarca kullanıcıya ulaşmak için uygulamanızı güncelleyin.",
-          "positive_button": "İlan Vermek için Güncelle-main",
-          "negative_button": "İlan Vermeden Çık-main"
+          "positive_button": "Güncelle",
+          "negative_button": "Çıkış"
         },
         "*": {
           "title": "Update your app",
           "message": "Connect with millions of users on sahibinden.com by posting and editing your listings. Update your app to get started.",
-          "positive_button": "Update to Post-main",
-          "negative_button": "Exit Without Posting-main"
+          "positive_button": "Update",
+          "negative_button": "Exit"
         }
       },
       "targetVersionCode": 99999,
@@ -44,14 +44,14 @@
         "tr": {
           "title": "Uygulamanızı güncelleyin",
           "message": "Yepyenilenmiş cihazları taksit fırsatıyla satın alıp, kullanmadığınız cihazlarınızı güvenle satmak için uygulamanızı güncelleyin.",
-          "positive_button": "Yepy'i Güncelle-main",
-          "negative_button": "Yepy'den Çık-main"
+          "positive_button": "Güncelle",
+          "negative_button": "Çıkış"
         },
         "*": {
           "title": "Update your app",
           "message": "Buy refurbished devices with installment options and sell your unused devices securely. Update now to access these features.",
-          "positive_button": "Update Yepy-main",
-          "negative_button": "Exit Yepy-main"
+          "positive_button": "Update",
+          "negative_button": "Exit"
         }
       },
       "targetVersionCode": 99999,
@@ -63,14 +63,14 @@
         "tr": {
           "title": "Uygulamanızı güncelleyin",
           "message": "Ödeme kolaylığı, farklı ödeme yöntemleri ve sadece sahibinden.com’a özel yeniliklerden yararlanmak için uygulamanızı güncelleyin.",
-          "positive_button": "Ödeme Sistemini Güncelle-main",
-          "negative_button": "Ödemesiz Çık-main"
+          "positive_button": "Güncelle",
+          "negative_button": "Çıkış"
         },
         "*": {
           "title": "Update your app",
           "message": "Enjoy easier payments, flexible options, and new features only on sahibinden.com.",
-          "positive_button": "Update Payment-main",
-          "negative_button": "Exit Without Paying-main"
+          "positive_button": "Update",
+          "negative_button": "Exit"
         }
       },
       "targetVersionCode": 999999,
