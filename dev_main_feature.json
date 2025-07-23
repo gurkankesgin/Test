@@ -35,7 +35,7 @@
           "negative_button": "Exit"
         }
       },
-      "targetVersionCode": 99999,
+      "targetVersionCode": 0,
       "targetGooglePlay": true,
       "forceUpdate": true
     },
@@ -54,7 +54,7 @@
           "negative_button": "Exit"
         }
       },
-      "targetVersionCode": 99999,
+      "targetVersionCode": 0,
       "targetGooglePlay": true,
       "forceUpdate": true
     },
